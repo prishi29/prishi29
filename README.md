@@ -10,7 +10,7 @@ I'm deeply interested in the field of Data Science and Data Analytics. I find jo
 
 As a master's student, my learning journey is ongoing. Currently, I'm focusing on mastering the following areas:
 
-- Advanced Statistics
+- Statistics
 - Python Programming
 - Structured Query Language
 - Data Visualization with Tableau and Power BI
