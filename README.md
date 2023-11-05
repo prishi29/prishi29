@@ -13,6 +13,9 @@ As a master's student, my learning journey is ongoing. Currently, I'm focusing o
 - Statistics
 - Python Programming
 - Structured Query Language
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
 - Data Visualization with Tableau and Power BI
 
 ## Collaboration Opportunities
